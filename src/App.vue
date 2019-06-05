@@ -41,7 +41,6 @@ export default {
         {title: 'Home', url: '/'},
         {title: 'News', url: '/news'},
         {title: 'Profile', url: '/profile'},
-        {title: 'Login', url: '/login'},
       ]
     }
   },
